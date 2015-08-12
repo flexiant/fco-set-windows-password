@@ -1,5 +1,5 @@
-Installing cloudbase-init in Windows
-====================================
+Script for setting the Windows Administrator Password using cloudbase-init
+==========================================================================
 
 It is possible to use custom scripts with [cloudbase-init](https://github.com/stackforge/cloudbase-init) on Windows. Here is how to install cloudbase-init with a Python script to set the password for the Administrator user.
 
